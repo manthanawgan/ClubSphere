@@ -1,5 +1,6 @@
 import React from 'react';
 import EventsDashboard from './components/EventsDashboard';
+import CreditsDashboard from './components/CreditSection';
 
 function App() {
   return (
