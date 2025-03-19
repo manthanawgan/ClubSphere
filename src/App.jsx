@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import EventsShowcase from './components/EventsShowcase'
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div className="landing-page">
       <Header />
       <Hero />
+      <EventsShowcase />
       {/* Add other landing page sections here later */}
     </div>
   );

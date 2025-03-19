@@ -21,8 +21,8 @@ function Hero() {
           </div>
         </div>
         <div className="hero-images">
-          <img src="/checklist.png" alt="Checklist" className="hero-image checklist" />
-          <img src="/calendar.png" alt="Calendar" className="hero-image calendar" />
+          <img src="src\assets\TaskPadPhoto.png" alt="Checklist" className="hero-image checklist" />
+          <img src="src\assets\CalenderPhoto.png" alt="Calendar" className="hero-image calendar" />
         </div>
       </div>
     </div>
