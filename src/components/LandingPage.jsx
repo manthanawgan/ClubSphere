@@ -1,9 +1,8 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import './App.css';
+import Header from './Header';
+import Hero from './Hero';
 
-function App() {
+function LandingPage() {
   return (
     <div className="landing-page">
       <Header />
@@ -13,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default LandingPage;
